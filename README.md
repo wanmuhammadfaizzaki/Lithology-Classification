@@ -180,8 +180,3 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 The FORCE 2020 dataset has its own terms of use. Please refer to the [competition repository](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition) before using the data in any published work.
-
-
-## 📄 License
-
-MIT License — see `LICENSE` for details.
